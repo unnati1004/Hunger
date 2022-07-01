@@ -1,0 +1,98 @@
+.nameh1{
+  text-align: center;
+}
+img{
+  width: 300px;
+  height: 400px;
+
+}
+.main{
+  display: flex;
+  padding: 10px 10px 10px 10px;
+  border: 3px solid red;
+}
+h2{
+  color: rgba(128, 128, 128, 0.803);
+  font-size: 20px;
+  margin-left: 5px;
+}
+.maindiv{
+  margin: 20px;
+}
+.child2{
+  margin-left: 30px;
+}
+.cost{
+  font-size: 15px;
+  color: black;
+}
+.sortbuttons{
+  margin: auto;
+  margin-bottom: 20px;
+}
+.sortbuttons>button{
+  width: 70px;
+  height: 30px;
+  background-color: rgb(52, 52, 196);
+  color: white;
+  margin-left: 10px;
+  border: transparent;
+}
+.cuisine{
+  display: flex;
+}
+.Ratingbuttons>button{
+ width: 120px;
+ height: 30px;
+ background-color: rgb(52, 52, 196);
+ color: white;
+ margin-left: 10px;
+ border: transparent;
+}
+h3{
+  color: brown;
+}
+.rat{
+  width: 30px;
+  height: 20px;
+  font-size: 15px;
+  color: white;
+  font-weight: 500;
+  background-color: rgb(34, 172, 34);
+  padding: 2px 2px 2px 2px;
+  border-radius: 10%;
+}
+.toggle{
+  width: 300px;
+  font-size: 21px;
+  height: 50px;
+  border-radius: 1px;
+  margin-left: 700px;
+  background-color: rgb(34, 34, 195);
+  color: white;
+  font-weight: 600;
+}
+.Payment>button{
+  width: 70px;
+  height: 30px;
+  background-color: rgb(52, 52, 196);
+  color: white;
+  margin-left: 10px;
+  border: transparent;
+}
+.pagination>button{
+  width: 50px;
+  height: 30px;
+ 
+  color: black;
+  
+  border: transparent;
+}
+label{
+  margin-right: 10px;
+}
+.pagination>button:hover{
+
+  background-color: rgb(52, 52, 196);
+  color: white;
+}
